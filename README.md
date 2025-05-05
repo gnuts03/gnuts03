@@ -1,6 +1,18 @@
 # Giới thiệu về Công ty TNHH Phần mềm Nhân Hòa
 
-## 1. Thông tin tổng quan
+## Mục lục
+
+- [1. Giới thiệu doanh nghiệp Nhân Hòa](#1-giới-thiệu-doanh-nghiệp-nhân-hòa)
+- [2. Tầm nhìn – Sứ mệnh – Giá trị cốt lõi](#2-tầm-nhìn--sứ-mệnh--giá-trị-cốt-lõi)
+- [3. Văn hóa giao tiếp trong doanh nghiệp](#3-văn-hóa-giao-tiếp-trong-doanh-nghiệp)
+- [4. Nội quy – Cách làm việc – Báo cáo – Email](#4-nội-quy--cách-làm-việc--báo-cáo--email)
+- [5. Thông tin liên hệ](#5-thông-tin-liên-hệ)
+- [6. Lịch sử cập nhật tài liệu](#6-lịch-sử-cập-nhật-tài-liệu)
+- [7. Bản quyền và người biên soạn](#7-bản-quyền-và-người-biên-soạn)
+
+---
+
+## 1. Giới thiệu doanh nghiệp Nhân Hòa
 
 - **Tên đầy đủ:** Công ty TNHH Phần mềm Nhân Hòa  
 - **Năm thành lập:** 2002  
@@ -41,7 +53,7 @@ Trên 300 đại lý tại 64 tỉnh thành.
 
 ---
 
-## 3. Văn hóa giao tiếp tại Nhân Hòa
+## 3. Văn hóa giao tiếp trong doanh nghiệp
 
 ### 🏢 a. Giao tiếp nội bộ:
 - Tôn trọng cấp trên, cởi mở hai chiều.  
@@ -63,7 +75,7 @@ Trên 300 đại lý tại 64 tỉnh thành.
 
 ---
 
-## 4. Nội quy – Làm việc – Báo cáo – Email công việc
+## 4. Nội quy – Cách làm việc – Báo cáo – Email
 
 ### 📌 a. Nội quy cơ bản:
 - **Giờ làm việc:** Thứ 2 – Thứ 6 (8h00–17h30); nghỉ trưa 12h–13h30  
@@ -88,3 +100,13 @@ Trên 300 đại lý tại 64 tỉnh thành.
 - **Chữ ký:** Họ tên – chức danh – SĐT – email – logo công ty  
 
 ---
+
+## 5. Thông tin liên hệ
+
+- 🌐 Website: [https://nhanhoa.com](https://nhanhoa.com)  
+- 📧 Email: support@nhanhoa.com  
+- ☎️ Tổng đài: 1900 6680  
+
+---
+
+
